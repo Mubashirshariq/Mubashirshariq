@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mubashir_shariq" target="blank"><img src="https://img.shields.io/twitter/follow/mubashir_shariq?logo=twitter&style=for-the-badge" alt="mubashir_shariq" /></a> </p>
 
-- 🌱 I’m currently learning **Django,React,Deep learning**
+- 🌱 I’m currently learning **Blockchain**
 
 - 📫 How to reach me **mubashirsharik01@gmail.com**
 
