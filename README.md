@@ -1,4 +1,4 @@
-![MasterHead](https://www.telkomsel.com/sites/default/files/2023-04/w4%20sept-58.png)
+
 <h1 align="center">Hi 👋, I'm Mubashir</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
