@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Decentralized freelancing platform**
 
-- 🌱 I’m currently learning **Web3,etherium,solidity,deep learning**
+- 🌱 I’m interested in  **Open Source contributions**
 
 - 👯 I’m looking to collaborate on **FinTrack**
 
