@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mubashir" target="blank"><img src="https://img.shields.io/twitter/follow/mubashir?logo=twitter&style=for-the-badge" alt="mubashir" /></a> </p>
 
-- 🔭 I’m currently working on **Decentralized freelancing platform**
+- 🔭 I’m currently working on **SynthMeeting a video conferencing platform powered by GenAI**
 
 - 🌱 I’m interested in  **Open Source contributions**
 
