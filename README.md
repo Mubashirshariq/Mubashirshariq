@@ -21,16 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mubashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mubashir" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mubashir-shariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mubashir-shariq" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mubashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mubashir" height="30" width="40" /></a>
-<a href="https://kaggle.com/mubashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mubashir" height="30" width="40" /></a>
-<a href="https://fb.com/meer mubashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="meer mubashir" height="30" width="40" /></a>
-<a href="https://instagram.com/mubashir_shariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mubashir_shariq" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shariq78" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shariq78" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mubashir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mubashir" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mubashirshariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mubashirshariq" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mubashirshari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mubashirshari" height="30" width="40" /></a>
+<a href="https://x.com/sharik_mub69649?t=LCJ0ZTj6e7rszQUjFBmuYQ&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mubashir" height="30" width="40" /></a><a href="https://www.linkedin.com/in/mubashir-shariq-5953a4225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mubashir-shariq" height="30" width="40" /></a><a href="https://leetcode.com/u/Mubashir_Shariq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mubashirshariq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
