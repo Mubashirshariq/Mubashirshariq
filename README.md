@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **FinTrack**
 
-- 🤝 I’m looking for help with **Etherium**
+- 🤝 I’m looking for a remote opportunity
 
 - 💬 Ask me about **react,javascript**
 
