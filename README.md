@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubashirshariq&label=Profile%20views&color=0e75b6&style=flat" alt="mubashirshariq" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mubashir" target="blank"><img src="https://img.shields.io/twitter/follow/mubashir?logo=twitter&style=for-the-badge" alt="mubashir" /></a> </p>
+<p align="left"> <a href="https://x.com/sharik_mub69649" target="blank"><img src="https://img.shields.io/twitter/follow/mubashir?logo=twitter&style=for-the-badge" alt="mubashir" /></a> </p>
 
 - 🔭 I’m currently working on **NexifyAi a no code AI tool to create your chatbots in seconds and use them in your apps**
 
