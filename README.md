@@ -4,13 +4,6 @@
 
 <p align="left"> <a href="https://x.com/sharik_mub69649" target="blank"><img src="https://img.shields.io/twitter/follow/mubashir?logo=twitter&style=for-the-badge" alt="mubashir" /></a> </p>
 
-- 🔭 I’m currently working on **NexifyAi a no code AI tool to create your chatbots in seconds and use them in your apps**
-
-- 🌱 I’m interested in  **Open Source contributions**
-
-- 🤝 I’m looking for a remote opportunity
-
-- 💬 Ask me about **react,javascript**
 
 - 📫 How to reach me **mubashirsharik01@gmail.com**
 
